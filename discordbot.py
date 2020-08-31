@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def 犯ちゅー！(ctx):
-    await ctx.send('ぴろーん～　<@!697705412023025774> 参戦どうぞ～')
+    await ctx.send('ぴろーん～　ハンバーグ四天王　親近の柱さん参戦どうぞ～')
 
 
 bot.run(token)
